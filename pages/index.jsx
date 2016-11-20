@@ -1,5 +1,5 @@
 import Component from 'inferno-component';
-import Inferno from 'z';
+import Inferno from 'inferno';
 
 export default class Home extends Component {
   render() {

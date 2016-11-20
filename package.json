@@ -12,6 +12,9 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "start": "gatsby develop -p 8080"
+    "start": "gatsby develop -p 8081"
+  },
+  "devDependencies": {
+    "babel-plugin-syntax-jsx": "^6.18.0"
   }
 }
